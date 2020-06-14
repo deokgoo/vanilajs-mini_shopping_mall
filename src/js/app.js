@@ -5,6 +5,7 @@ import {Filter, ClothColor, ClothType} from './enum.js';
 
 const filter = Filter;
 const data = {};
+
 const App = {
   async setUp() {
     HeaderComponent.init(document.querySelector('header'))
