@@ -1,6 +1,8 @@
 # vanilajs mini shopping mall
 #### youtube 엘리님 영상을 보면서 받은 미션을 수행한 미니 프로젝트입니다.
 [엘리님 영상](https://www.youtube.com/watch?v=We2Kv1HMGvc)
+## screenshot
+<img src="./screenshot/capture.png" width="40%" height="30%"></img>
 
 ## directory
 ```
